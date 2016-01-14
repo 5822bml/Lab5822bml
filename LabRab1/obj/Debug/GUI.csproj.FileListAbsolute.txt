@@ -1,0 +1,52 @@
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\bin\Debug\LabRab1.exe.config
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.exe
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.pdb
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\bin\Debug\LabRab1.exe.config
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.exe
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.pdb
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.HeadForm.resources
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.ParallelepipedForm.resources
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.PyramidForm.resources
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.Properties.Resources.resources
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.SphereForm.resources
+\\192.168.1.2\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.HeadForm.resources
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.ParallelepipedForm.resources
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.PyramidForm.resources
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\LabRab1.SphereForm.resources
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\bin\Debug\LabRab1.exe
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\bin\Debug\LabRab1.pdb
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\bin\Debug\ClassLibrary1.dll
+C:\Users\Aleksandr\Desktop\LabRab1\LabRab1\bin\Debug\ClassLibrary1.pdb
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Учёба\НТвП\LabRab1\LabRab1\bin\Debug\GUI.exe.config
+D:\Учёба\НТвП\LabRab1\LabRab1\bin\Debug\GUI.exe
+D:\Учёба\НТвП\LabRab1\LabRab1\bin\Debug\GUI.pdb
+D:\Учёба\НТвП\LabRab1\LabRab1\bin\Debug\Core.dll
+D:\Учёба\НТвП\LabRab1\LabRab1\bin\Debug\Core.pdb
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.Properties.Resources.resources
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.exe
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.pdb
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.HeadForm.resources
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.TriangleForm.resources
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.RoundForm.resources
+D:\Учёба\НТвП\LabRab1\LabRab1\obj\Debug\GUI.QuadrateForm.resources
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\bin\Debug\GUI.exe.config
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.exe
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.pdb
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\bin\Debug\GUI.exe
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\bin\Debug\GUI.pdb
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\bin\Debug\Core.dll
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\bin\Debug\Core.pdb
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.HeadForm.resources
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.QuadrateForm.resources
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.TriangleForm.resources
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.Properties.Resources.resources
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.RoundForm.resources
+D:\Мои документы\ТУСУР учеба\4 Курс\НТВП\LabRab1\LabRab1\obj\Debug\GUI.csproj.GenerateResource.Cache
